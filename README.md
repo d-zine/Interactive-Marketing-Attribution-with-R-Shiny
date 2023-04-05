@@ -1,6 +1,6 @@
 <h1 align="center">Interactive-Marketing-Attribution-with-R-Shiny</h1>
 
-Leveraging R Shiny, this marketing attribution analysis provides an interactive and comprehensive tool for Starbucks. 
+Leveraging R Shiny, this marketing attribution analysis provides an interactive and comprehensive tool to improve companies' marketing performance. 
 
 The app offers insights on response rates, marketing offer ranking, and customer demographics. It also delves into new insights on low engagement users, offer effectiveness, and potential store locations, which can inform the company's marketing strategy.
 
