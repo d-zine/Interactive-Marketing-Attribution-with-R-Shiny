@@ -33,13 +33,24 @@ Let's quickly recap the top three insights from the first project, which include
 1. Marketing Offer Ranking
 The Marketing Offer Ranking leaderboard provides a clear ranking of the marketing offers from highest to lowest response rates and enables users to filter on offer type to reveal that higher duration offers perform better than lower duration offers for both BOGO and discount categories.
 
+<p align="center">
+<img src="images/Marketing Offer Ranking.png" width=900>
+</p>
+
 2. Cohort Analysis
 Cohorts are segmented based on Starbucks members signup year. This tab compares the total spending in dollars by member signup year with the Average Spend per Member Sign Up Year. This analysis highlights that the 2017 cohort had the highest total spending, and the 2016 cohort had the highest average spend per member.
+
+<p align="center">
+<img src="images/Cohort Analysis.png" width=600>
+</p>
 
 3. Response Rates
 Response rates are calculated by dividing the number of offers completed by the number of offers received. The dashboard highlights that response rates increase with age and income, and that females are more responsive than males to marketing offers. By including age group, gender, and income group dropdowns, users can easily explore trends within specific segments of interest.
 
- 
+<p align="center">
+<img src="images/Response Rates.png" width=950>
+</p>
+
 <br> 
 <i>Analyzing User Behavior and Geographical Trends: New Insights for Starbucks' Future Success</i>
 
@@ -62,6 +73,10 @@ During the 30-day test period, the average order value was $12.78, calculated by
 
 To incentivize them, we can consider introducing them to new products they may not have tried before, such as limited-time seasonal items or exclusive merchandise. We could also reward them with bonus stars for trying something new. By targeting this group, we can improve their engagement and retention over time.
 
+<p align="center">
+<img src="images/pie_chart2.jpeg" width=500>
+</p>
+
 <b>Insight 2: Time Distribution Between Offer Received and Transaction by User
 
 (How to increase revenue through benchmarking)</b>
@@ -69,6 +84,10 @@ To incentivize them, we can consider introducing them to new products they may n
 In this insight, I will focus on benchmarking to increase revenue by analyzing the time between when a user receives a marketing offer and when they complete a transaction. This metric provides a baseline for the average time it takes for a marketing offer to influence user behavior in a way that positively impacts revenue.
 
 Based on this analysis, it appears that the average time is approximately three days, with a right-skewed distribution indicating that a significant proportion of users make a transaction within one to three days after receiving an offer. From this insight, it is recommended to wait for at least three days before assessing their effectiveness. Additionally, it is advisable to avoid overwhelming customers with too many offers by sending them an offer less than once every three days.
+
+<p align="center">
+<img src="images/Time Distribution.png" width=500>
+</p>
 
 <b>Insight 3: US Starbucks Heatmap as of March 2023
 
@@ -98,6 +117,9 @@ Ultimately, during a leisurely stroll to the University of Pennsylvania, I found
 
 Overall, opening a Starbucks by Philadelphia’s 24th and Chestnut luxury apartments could potentially be a lucrative location with high foot traffic and convenient accessibility for commuters and fitness enthusiasts. Starbucks could partner with the real estate management and local businesses in the area to gain insight into the local market conditions and confirm the practicality of opening a store in this location.
 
+<p align="center">
+<img src="images/US Starbucks Heatmap.png" width=700>
+</p>
  <br>
 
 <b>Recap and Recommendation</b>
