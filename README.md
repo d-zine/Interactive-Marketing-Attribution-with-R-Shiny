@@ -31,21 +31,24 @@ Using Python, I joined these tables and leveraged ChatGPT to write transformatio
 Let's quickly recap the top three insights from the first project, which include Marketing Offer Ranking, Cohort Analysis, and Response Rates.
 
 1. Marketing Offer Ranking
-The Marketing Offer Ranking leaderboard provides a clear ranking of the marketing offers from highest to lowest response rates and enables users to filter on offer type to reveal that higher duration offers perform better than lower duration offers for both BOGO and discount categories.
+
+> The Marketing Offer Ranking leaderboard provides a clear ranking of the marketing offers from highest to lowest response rates and enables users to filter on offer type to reveal that higher duration offers perform better than lower duration offers for both BOGO and discount categories.
 
 <p align="center">
 <img src="images/Marketing Offer Ranking.png" width=900>
 </p>
 
 2. Cohort Analysis
-Cohorts are segmented based on Starbucks members signup year. This tab compares the total spending in dollars by member signup year with the Average Spend per Member Sign Up Year. This analysis highlights that the 2017 cohort had the highest total spending, and the 2016 cohort had the highest average spend per member.
+
+> Cohorts are segmented based on Starbucks members signup year. This tab compares the total spending in dollars by member signup year with the Average Spend per Member Sign Up Year. This analysis highlights that the 2017 cohort had the highest total spending, and the 2016 cohort had the highest average spend per member.
 
 <p align="center">
 <img src="images/Cohort Analysis.png" width=600>
 </p>
 
 3. Response Rates
-Response rates are calculated by dividing the number of offers completed by the number of offers received. The dashboard highlights that response rates increase with age and income, and that females are more responsive than males to marketing offers. By including age group, gender, and income group dropdowns, users can easily explore trends within specific segments of interest.
+
+> Response rates are calculated by dividing the number of offers completed by the number of offers received. The dashboard highlights that response rates increase with age and income, and that females are more responsive than males to marketing offers. By including age group, gender, and income group dropdowns, users can easily explore trends within specific segments of interest.
 
 <p align="center">
 <img src="images/Response Rates.png" width=950>
