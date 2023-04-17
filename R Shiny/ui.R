@@ -11,7 +11,7 @@ library(leaflet)
 ui <- dashboardPage(
   dashboardHeader(title = "Starbucks Rewards"),
   dashboardSidebar(
-    width = 275,
+    width = 280,
     sidebarMenu(
       menuItem("Response Rates", tabName = "tab1"),
       menuItem("Avg Spend by Age Group & Gender", tabName = "tab2"),
@@ -21,13 +21,13 @@ ui <- dashboardPage(
       menuItem("Funnel Stages", tabName = "tab4"),
       menuItem("Active/Low Engagement/Inactive Members", tabName = "tab8"),
       menuItem("Offer Sent to Spend Time Average", tabName = "tab10"),
-      menuItem("US Starbucks Heatmap as of 3/1/23", tabName = "tab11")
-      
+      menuItem("US Starbucks Heatmap as of 3/1/23", tabName = "tab11"),
+      menuItem("Starbucks Heatmap & Business Competitors", tabName = "tab12")
     )
   ),
   dashboardBody(
     tags$head(tags$style(HTML('.nav > li > a {padding-top: 10px !important; padding-bottom: 10px !important;}'))),
-    tags$style(type = "text/css", "#map2 {height: 100vh !important;}"), # Add this line
+    tags$style(type = "text/css", "#map2, #map3 {height: 100vh !important;}"), # Add this line
     tabItems(
       tabItem(tabName = "tab1",
               fluidRow(
@@ -89,8 +89,14 @@ ui <- dashboardPage(
               fluidRow(
                 column(width = 12, leafletOutput("map2"))
               )
+      ),
+      tabItem(tabName = "tab12",
+              fluidRow(
+                column(width = 12, leafletOutput("map3"))
+              )
       )
-    
+      
+    )
   )
 )
-)
+
