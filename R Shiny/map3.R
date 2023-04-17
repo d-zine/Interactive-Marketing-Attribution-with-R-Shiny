@@ -5,7 +5,7 @@ library(leaflet.extras)
 library(dplyr)
 
 # Set Yelp API key and search parameters
-api_key <- "7C03umuaSK76u77uUzu3HXytCvr_g3BD8oskFnyULthDGDnB45y9MQR2CfEKtjA1ZoaI_XFYQAC-BJ5o87qAj3RT-oEMTXXrGYG8OJlCiF8RE3eUrxbtO1aCtW48ZHYx"
+api_key <-"your api key"
 search_categories <- "coffee,tea"
 search_location <- "Philadelphia, PA"
 search_limit <- 50
