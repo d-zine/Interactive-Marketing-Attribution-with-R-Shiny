@@ -12,7 +12,6 @@ library(plotly)
 library(readr)
 
 source('map3.R')
-source('map2.R')
 source('cohort.R')
 source('funnel.R')
 source('tenure.R')
@@ -24,15 +23,11 @@ source('channel_response.R')
 # Define server logic
 function(input, output) {
   
-  # Load the map from map3.R
-
   # Render the map
   output$map3 <- renderLeaflet({
     map3
   })
-  output$map2 <- renderLeaflet({
-    map2
-  })  
+  
   output$member_plot <- renderPlot({
     calculate_members(transcript)
   })
