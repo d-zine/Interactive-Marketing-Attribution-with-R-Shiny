@@ -18,6 +18,10 @@ To identify potential locations for store expansion, I created a heatmap of exis
 
 Using Python, I joined these tables and leveraged ChatGPT to write transformations, create visualizations in R, and collaborate on editing this post.
 
+<i>Starbucks Competitors Dataset</i>:
+
+I used the Yelp API to retrieve data on Starbucks' competitors in PA, NJ, and NY, limited to a call limit of 1000 per unique location searched. Due to concerns about the map's loading speed, I did not gather data for all 50 states. For this analysis, I defined Starbucks' competitors as coffee or tea businesses that have a Yelp rating of 3.5 or higher, which is the same rating held by Starbucks itself.
+
 <br>
 
 <b>Application</b>
