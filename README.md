@@ -16,11 +16,11 @@ The dataset is composed of three tables: an event log that tracks user actions s
 
 To identify potential locations for store expansion, I created a heatmap of existing Starbucks locations using data from aggdata.com, a highly regarded source for location data. The dataset contains information on 17,280 Starbucks locations as of March 1st, 2023, across four countries, including the United States, Canada, Puerto Rico, and Mexico. It includes details such as store name, address, city, state, zip code, latitude, and longitude coordinates, as well as other relevant geographic features.
 
-Using Python, I joined these tables and leveraged ChatGPT to write transformations, create visualizations in R, and collaborate on editing this post.
-
 <i>Starbucks Competitors Dataset</i>:
 
-To obtain data on Starbucks' competitors in PA, NJ, and NY, I utilized the Yelp API with a call limit of 1,000 per unique location searched. The results for each state were aggregated together after being retrieved. Due to concerns about the map's loading speed, I did not collect data for all 50 states. For this analysis, I classified businesses that serve coffee or tea and have a Yelp rating of 3.5 or higher as Starbucks' competitors, which is consistent with Starbucks' own rating.
+To obtain real-time data on Starbucks' competitors in PA, NJ, and NY, I pull from the Yelp API with a call limit of 1,000 per unique location searched. The results for each state are aggregated together after being retrieved. Due to concerns about the map's loading speed, I do not collect data for all 50 states. For this analysis, I classify businesses that serve coffee or tea and have a Yelp rating of 3.5 or higher as Starbucks' competitors, which is consistent with Starbucks' own rating.
+
+Using Python, I joined the Starbucks reward offers dataset bundle and leveraged ChatGPT to write transformations, create visualizations in R, and collaborate on editing this post.
 
 <br>
 
