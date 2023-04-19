@@ -20,7 +20,7 @@ Using Python, I joined these tables and leveraged ChatGPT to write transformatio
 
 <i>Starbucks Competitors Dataset</i>:
 
-To obtain data on Starbucks' competitors in PA, NJ, and NY, I utilized the Yelp API with a call limit of 1,000 per unique location searched. The results for each state being aggregated together after being retrieved. Due to concerns about the map's loading speed, I did not collect data for all 50 states. For this analysis, I classified businesses that serve coffee or tea and have a Yelp rating of 3.5 or higher as Starbucks' competitors, which is consistent with Starbucks' own rating.
+To obtain data on Starbucks' competitors in PA, NJ, and NY, I utilized the Yelp API with a call limit of 1,000 per unique location searched. The results for each state were aggregated together after being retrieved. Due to concerns about the map's loading speed, I did not collect data for all 50 states. For this analysis, I classified businesses that serve coffee or tea and have a Yelp rating of 3.5 or higher as Starbucks' competitors, which is consistent with Starbucks' own rating.
 
 <br>
 
