@@ -148,4 +148,4 @@ If more time were available, here are some features that we could implement to i
 
  <br>
 
-In conclusion, this is part II of this project, which presents comprehensive marketing attribution metrics through an R Shiny dashboard to help business leaders focus on strategy and outcomes. I have successfully integrated the subsequent phase of the project, which is overlaying data from Starbucks competitors using Yelp fusion API onto the current heatmap. Enjoy interacting with the app!
+In conclusion, this is part II of this project, which presents comprehensive marketing attribution metrics through an R Shiny dashboard to help business leaders focus on strategy and outcomes. I have successfully integrated the next phase of the project, which is overlaying data from Starbucks competitors using Yelp fusion API onto the current heatmap. Enjoy interacting with the app!
