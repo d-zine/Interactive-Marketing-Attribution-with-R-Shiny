@@ -125,7 +125,7 @@ Ultimately, during a leisurely stroll to the University of Pennsylvania, I found
 Overall, opening a Starbucks by Philadelphia’s 24th and Chestnut luxury apartments could potentially be a lucrative location with high foot traffic and convenient accessibility for commuters and fitness enthusiasts. Starbucks could partner with the real estate management and local businesses in the area to gain insight into the local market conditions and confirm the practicality of opening a store in this location.
 
 <p align="center">
-<img src="images/US Starbucks Heatmap.png" width=700>
+<img src="images/map.png" width=700>
 </p>
  <br>
 
