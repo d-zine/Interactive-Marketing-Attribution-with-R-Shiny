@@ -108,7 +108,7 @@ Because Starbucks is a mature US company, it plans to grow strategically by expa
 <br>
 With this context, the business question to answer is: where to open the next Starbucks store?
 
-There are important factors to consider when identifying new locations for expansion The first step is to analyze the concentration of existing Starbucks stores in different areas. In Philadelphia, the heatmap shows that Starbucks stores are currently clustered around City Hall, Center City downtown, and University City, where major universities such as Drexel and the University of Pennsylvania are located.
+There are important factors to consider when identifying new locations for expansion. The first step is to analyze the concentration of existing Starbucks stores in different areas. In Philadelphia, the heatmap shows that Starbucks stores are currently clustered around City Hall, Center City downtown, and University City, where major universities such as Drexel and the University of Pennsylvania are located.
 
 To ensure success, Starbucks aims to balance brand recognition and consumer demand when selecting new store locations, while also avoiding cannibalizing sales from existing stores. To achieve this, Starbucks often partners with local businesses and real estate developers to secure prime locations and gain insights into local market conditions. For example, Starbucks has positioned one of its stores at [Broad and Washington](https://rebusinessonline.com/post-bros-tower-investments-start-construction-of-750m-multifamily-project-in-south-philadelphia/) where residential and commercial real estate construction is underway.
 
